@@ -1,7 +1,0 @@
-Sentiment Analysis Result:
-=====================================
-Text: I am happy!
-=====================================
-Results:
-Label: POSITIVE, 
-Score: 99.9873161315918 %
